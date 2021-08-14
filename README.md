@@ -7,6 +7,8 @@ How to run it?
        <ul>
          <li>Make sure you have Python installed, it can be downloaded <a href="https://www.python.org/downloads/">here.</a></li>
          <li>Install Django with $ python -m pip install Django</li>
+         <li>Create a superuser with "python manage.py createsuperuser" You will be prompted to enter a username, email, and password. or you can use the one i created: "Hibukim", "8520"</li>
+         <li>Start a local web server with "python manage.py runserver".</li>
        </ul>
   </tbody>
 </table>
