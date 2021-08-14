@@ -5,7 +5,7 @@ How to run it?
 <table>
   <tbody>
        <ul>
-         <li><a href="https://www.python.org/downloads/">Make sure you have Python installed, it can be downloaded here.</a></li>
+         <li>Make sure you have Python installed, it can be downloaded <a href="https://www.python.org/downloads/">here.</a></li>
          <li>Install Django with $ python -m pip install Django</li>
        </ul>
   </tbody>
