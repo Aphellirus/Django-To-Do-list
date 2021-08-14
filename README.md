@@ -24,14 +24,19 @@ Links with everything used in this project:
 </table>
 
 
-<h1>Features:</h1>
+<h1>Features:</h1> 
 
-![Login Demo](demo/login.gif) <br/>
+<h3>Login</h3>
+![Login Demo](demo/login.gif)<br/>
 
+<h3>Login, logout & account creation</h3>
 ![Login, logout & account creation demo](demo/login-logout-account-creation.gif)<br/>
 
+<h3>Completing & Deleting tasks</h3>
 ![Completing & Deleting tasks Demo](demo/tasks-complete-delete.gif)<br/>
 
+<h3>Tasks creation</h3>
 ![Tasks creation demo](demo/tasks-creation.gif)<br/>
 
+<h3>Tasks ordering</h3>
 ![Tasks ordering demo](demo/tasks-ordering.gif)<br/>
