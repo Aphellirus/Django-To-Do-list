@@ -22,3 +22,6 @@ Links with everything used in this project:
        </ul>
   </tbody>
 </table>
+
+
+<h1>Features:</h1>
