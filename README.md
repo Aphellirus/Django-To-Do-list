@@ -26,7 +26,7 @@ Links with everything used in this project:
 
 <h1>Features:</h1>
 <h3>Login</h3>
-![output001_2021-08-14-17-40-12](https://user-images.githubusercontent.com/60182775/129459718-3818e84c-4781-41f6-bd92-eba24935bfae.gif)
+https://user-images.githubusercontent.com/60182775/129459718-3818e84c-4781-41f6-bd92-eba24935bfae.gif
 <h3></h3>
 <h3></h3>
 <h3></h3>
