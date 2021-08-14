@@ -26,17 +26,17 @@ Links with everything used in this project:
 
 <h1>Features:</h1> 
 
-<h3>Login</h3><br/>
+Login<br/>
 ![Login Demo](demo/login.gif)<br/>
 
-<h3>Login, logout & account creation</h3><br/>
+Login, logout & account creation<br/>
 ![Login, logout & account creation demo](demo/login-logout-account-creation.gif)<br/>
 
-<h3>Completing & Deleting tasks</h3><br/>
+Completing & Deleting tasks<br/>
 ![Completing & Deleting tasks Demo](demo/tasks-complete-delete.gif)<br/>
 
-<h3>Tasks creation</h3><br/>
+Tasks creation<br/>
 ![Tasks creation demo](demo/tasks-creation.gif)<br/>
 
-<h3>Tasks ordering</h3><br/>
+Tasks ordering<br/>
 ![Tasks ordering demo](demo/tasks-ordering.gif)<br/>
