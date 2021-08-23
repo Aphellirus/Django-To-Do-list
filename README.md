@@ -31,13 +31,13 @@ Login<br/>
 <img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/login.gif?raw=true" width="628"/>
 
 Login, logout & account creation<br/>
-![Login, logout & account creation demo](demo/login-logout-account-creation.gif)<br/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/login-logout-account-creation.gif?raw=true" width="628"/>
 
 Completing & Deleting tasks<br/>
-![Completing & Deleting tasks Demo](demo/tasks-complete-delete.gif)<br/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/tasks-complete-delete.gif?raw=true" width="628"/>
 
 Tasks creation<br/>
-![Tasks creation demo](demo/tasks-creation.gif)<br/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/tasks-creation.gif?raw=true" width="628"/>
 
 Tasks ordering<br/>
-![Tasks ordering demo](demo/tasks-ordering.gif)<br/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/tasks-ordering.gif?raw=true" width="628"/>
