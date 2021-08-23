@@ -28,7 +28,7 @@ Links with everything used in this project:
 <h1>Features:</h1> 
 
 Login<br/>
-![Login Demo](demo/login.gif)<br/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/login.gif?raw=true" width="628"/>
 
 Login, logout & account creation<br/>
 ![Login, logout & account creation demo](demo/login-logout-account-creation.gif)<br/>
