@@ -28,16 +28,16 @@ Links with everything used in this project:
 <h1>Features:</h1> 
 
 Login<br/>
-<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/login.gif?raw=true" width="628"/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/login-demo.gif?raw=true" width="628"/>
 
 Login, logout & account creation<br/>
-<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/login-logout-account-creation.gif?raw=true" width="628"/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/account-creation-demo.gif?raw=true" width="628"/>
 
 Completing & Deleting tasks<br/>
-<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/tasks-complete-delete.gif?raw=true" width="628"/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/task-completing-deleting-demo.gif?raw=true" width="628"/>
 
 Tasks creation<br/>
-<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/tasks-creation.gif?raw=true" width="628"/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/task-creation-demo.gif?raw=true" width="628"/>
 
 Tasks ordering<br/>
-<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/tasks-ordering.gif?raw=true" width="628"/>
+<img src="https://github.com/Hibukim/Django-To-Do-list/blob/main/demo/task-ordering-demo.gif?raw=true" width="628"/>
